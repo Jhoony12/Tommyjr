@@ -1,5 +1,5 @@
 { 
-     "name": "@mattstam/solidity-template", 
+     "name": "@tommyjr", 
      "version": "0.0.0", 
      "description": "A modern Solidity template utilizing Foundry and Hardhat", 
      "type": "commonjs", 
